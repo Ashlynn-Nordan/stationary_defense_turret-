@@ -1,21 +1,21 @@
 Stationary Defense Turret
 
-Description
+Description:
 
 This project features a stationary defense turret built using an Arduino microcontroller, servo motors, stepper motors, and ultrasonic sensors. The turret is designed to launch ping pong balls or training golf balls toward detected targets. It operates in both manual mode and autonomous mode, allowing either direct user control or automatic target detection and firing.
 
 The system includes controlled rotation, adjustable launch angle, and a ball feeding mechanism capable of holding multiple projectiles. Autonomous functionality uses distance sensing to detect objects within range and respond with consistent aim and timed firing intervals.
 
-Features
+Features:
 
-Manual control mode
+Manual control mode:
 
 Horizontal rotation range of ±90°
 Adjustable launch angle between 20° and 80°
 10-ball clip capacity
 User-controlled aiming and firing
 
-Autonomous targeting mode
+Autonomous targeting mode:
 
 Uses three ultrasonic sensors for environmental scanning
 Detects targets within 3 meters
@@ -27,7 +27,7 @@ Servo-controlled firing mechanism
 Stepper motor-controlled rotation and elevation
 Embedded C/C++ control logic
 
-Hardware Used
+Hardware Used:
 
 Arduino microcontroller (Mega or Uno compatible)
 Stepper motors (horizontal rotation and vertical angle control)
@@ -37,7 +37,7 @@ Motor drivers
 battery pack
 Ping pong balls
 
-How It Works
+How It Works:
 
 The turret operates in two selectable modes:
 
