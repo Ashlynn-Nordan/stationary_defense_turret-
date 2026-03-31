@@ -53,7 +53,7 @@ After firing, the system waits 20 seconds before launching the next ball. This d
 
 Stepper motors control movement accuracy, while servo motors provide fast and consistent ball release timing.
 
-Repository Contents
+Repository Contents:
 
 -Arduino source code
 
